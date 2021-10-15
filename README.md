@@ -9,10 +9,10 @@ senha padrao: teste123
 Feito com PHP, myql e miniFramework PHP
 
 ## Screenshot
-![Screenshot](img/Twitter-Screenshot-home.png)
-![Screenshot](img/Twitter-Screenshot-1.png)
-![Screenshot](img/Twitter-Screenshot-2.png)
-![Screenshot](img/Twitter-Screenshot-3.png)
+![Screenshot](img/Screenshots/Twitter-Screenshot-home.png)
+![Screenshot](img/Screenshots/Twitter-Screenshot-1.png)
+![Screenshot](img/Screenshots/Twitter-Screenshot-2.png)
+![Screenshot](img/Screenshots/Twitter-Screenshot-3.png)
 
 ## Installation
 Importe o querys.sql para o seu mysql database 
