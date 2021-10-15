@@ -1,6 +1,9 @@
 # Twitter Clone
 
 Twitter clone com funcionalidades básicas como tweet, sietema de follow, etc.
+Link para teste: http://projetotwitterclonecomphp.epizy.com/
+usuario padrao: jose@teste.com
+senha padrao: teste123
 
 ## Desenvolvimento
 Feito com PHP, myql e miniFramework PHP
